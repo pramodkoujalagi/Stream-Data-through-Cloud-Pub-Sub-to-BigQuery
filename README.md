@@ -1,7 +1,7 @@
 # Stream Data through Cloud Pub/Sub to BigQuery
 
 1. Create a bucket matching your project name (e.g. gs://playground-s-11-78f5b410)
-2. Leave other settings as defaul
+2. Leave other settings as default
 
 ### UPDATED STEPS:
 3. Go to IAM and copy the compute service account name to a text editor (e.g. 526273785053-compute@developer.gserviceaccount.com)
